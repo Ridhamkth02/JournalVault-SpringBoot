@@ -21,7 +21,7 @@ public class UserDetailsServiceImpl implements UserDetailsService {
 //            UserDetails userDetails = org.springframework.security.core.userdetails.User.builder()
 //                    .username(user.getUserName())
 //                    .password(user.getPassword())
-//                    .roles(user.getRoles().toArray(new String[0]))
+//                    .roles(user.getRoles().toArray( new String[0]))
 //                    .build();
 //            return userDetails;
             //hum upr krne ke bjaye niche jaise likha hae waise sidha bhi return krwa skte hae.
